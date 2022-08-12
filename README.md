@@ -3,11 +3,11 @@
 - 🌱 I’m currently learning at University of Kelaniya
 - 📫 How to reach me: thennakoonvishmi@gmail.com
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vishmi-thennakoon)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishmi-thennakoon&layout=compact)](https://github.com/vishmi-thennakoon/github-readme-stats)
 
 [![vishmi-thennakoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishmi-thennakoon)](https://github.com/vishmi-thennakoon/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vishmi-thennakoon)](https://git.io/streak-stats)
 
 <!--
 **vishmi-thennakoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
