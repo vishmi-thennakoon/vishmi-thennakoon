@@ -1,12 +1,14 @@
-### Hi there 👋
-
+### Hi there 👋, I'm *Vishmi Thennakoon*
+- 🔭 I’m currently working on Elzian Agro as a *Web Developer Intern*
+- 🌱 I’m currently learning at University of Kelaniya
+- 📫 How to reach me: thennakoonvishmi@gmail.com
 <!--
-**vishmi-thennakoon/vishmi-thennakoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vishmi-thennakoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Elzian Agro (pvt) ltd
+- 🌱 I’m currently learning at University of Kelaniya
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
