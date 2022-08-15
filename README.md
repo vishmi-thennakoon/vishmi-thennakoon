@@ -1,5 +1,4 @@
 ### Hi there 👋, I'm *Vishmi Thennakoon*
-- 🔭 I’m currently working on Elzian Agro as a *Web Developer Intern*
 - 🌱 I’m currently learning at University of Kelaniya
 - 📫 How to reach me: thennakoonvishmi@gmail.com
 
