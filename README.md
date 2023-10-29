@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm *Vishmi Thennakoon*
-- 🔭 I’m currently working on Ponder Solutions(pvt) ltd as a database administrator trainee
+- 🔭 I’m currently working on Ponder Solutions(pvt) ltd as a Oracle APEX Developer trainee
 - 🌱 I’m currently learning at University of Kelaniya
 - 📫 How to reach me: thennakoonvishmi@gmail.com
 
